@@ -9,3 +9,11 @@ body::before {
     width: 50%;
   }
 }
+
+.bg_c_dark {
+    background: #2d3436;
+}
+
+.bg-p {
+    background: #6c5ce7;
+}
